@@ -9,7 +9,9 @@ kada je commitano,
 5. Treba postojati back button u drugom pageu koji vodi nazad na prvi i
 6. Neka bude lijepo
 
-## Podaci
-# Ime i prezime: David Šajina
-# JMBAG: 0303088268
-# Kolegij: Web aplikacije
+# Podaci
+Ime i prezime: David Šajina
+
+JMBAG: 0303088268
+
+Kolegij: Web aplikacije
