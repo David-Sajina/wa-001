@@ -1,4 +1,5 @@
 # Opis zadatka
+
 Zadatak vam je napraviti malu Vue.js aplikaciju koja će prikazivati commitove vuejs repozitorija. 
 1. Aplikacija se treba sastojati od dva pagea,
 2. Prvi page mora prikazivati barem 10 SHA commitova u obliku liste, 
@@ -8,7 +9,7 @@ kada je commitano,
 5. Treba postojati back button u drugom pageu koji vodi nazad na prvi i
 6. Neka bude lijepo
 
-# Podaci
-Ime i prezime: David Šajina
-JMBAG: 0303088268
-Kolegij: Web aplikacije
+## Podaci
+# Ime i prezime: David Šajina
+# JMBAG: 0303088268
+# Kolegij: Web aplikacije

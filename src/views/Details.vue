@@ -6,6 +6,8 @@
             <v-card-subtitle>Email: {{ test.commit.author.email}}</v-card-subtitle>
             <v-card-subtitle>Date: {{ test.commit.author.date}}</v-card-subtitle>
             <v-card-subtitle>Message: {{test.commit.message}}</v-card-subtitle>
+           
+           <v-spacer></v-spacer> <v-btn color="#026fa6" style="margin-left:10px; margin-bottom:10px;" @click="home()">Go back</v-btn>
         </v-card>
     </div>
 </template>
@@ -35,6 +37,10 @@ import axios from "axios";
         this.test = this.all[this.help];
         console.log("test",this.test)
 	},
+    methods:
+   { home(){
+        this.$router.replace({ name: "Home" });
+    }}
 };
 </script>
 
